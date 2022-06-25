@@ -5,7 +5,7 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "com.actionstudios.bounceup"
+        applicationId "com.gearapps.bounceup"
         minSdkVersion 21
         targetSdkVersion 33
         multiDexEnabled true

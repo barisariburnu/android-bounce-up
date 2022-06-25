@@ -1,7 +1,7 @@
 package com.buildbox;
 
 import java.lang.ref.WeakReference;
-import android.app.Activity;
+
 import android.util.Log;
 import android.view.View;
 import android.widget.FrameLayout;
@@ -9,21 +9,17 @@ import android.widget.RelativeLayout;
 
 import androidx.annotation.NonNull;
 
-import com.actionstudios.bounceup.ResData;
+import com.gearapps.bounceup.ResData;
 import com.google.android.gms.ads.AdError;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.FullScreenContentCallback;
 import com.google.android.gms.ads.LoadAdError;
-import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.OnUserEarnedRewardListener;
-import com.google.android.gms.ads.initialization.InitializationStatus;
-import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 
 import com.google.android.gms.ads.interstitial.InterstitialAd;
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
-import com.google.android.gms.ads.interstitial.InterstitialAd;
 
 import com.google.android.gms.ads.rewarded.RewardItem;
 import com.google.android.gms.ads.rewarded.RewardedAd;

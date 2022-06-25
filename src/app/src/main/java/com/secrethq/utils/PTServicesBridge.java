@@ -12,8 +12,7 @@ import java.nio.IntBuffer;
 
 import org.cocos2dx.lib.Cocos2dxActivity;
 
-import com.actionstudios.bounceup.PTPlayer;
-import com.actionstudios.bounceup.ResData;
+import com.gearapps.bounceup.ResData;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.games.Games;

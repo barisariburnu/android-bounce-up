@@ -1,4 +1,4 @@
-package com.actionstudios.bounceup;
+package com.gearapps.bounceup;
 
 import org.cocos2dx.lib.Cocos2dxActivity;
 import org.cocos2dx.lib.Cocos2dxGLSurfaceView;

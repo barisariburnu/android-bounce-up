@@ -1,8 +1,8 @@
-package com.actionstudios.bounceup;
+package com.gearapps.bounceup;
 
 import android.content.Context;
 
-import static com.actionstudios.bounceup.BuildConfig.*;
+import static com.gearapps.bounceup.BuildConfig.*;
 
 public class ResData {
 
